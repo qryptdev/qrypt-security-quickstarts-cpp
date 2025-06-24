@@ -12,11 +12,11 @@ static const char* FLASK_PORT = "5000";
 static long curlConnectionTimeout = 10L;
 
 namespace {
-const char* _demo_token = "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImM1NDM3NTlhMjhiMjRmYzQ4NGY1OWIyNjBmNTMwZjA2In0.e"
-    "yJleHAiOjE3NDcxNjU2MDUsIm5iZiI6MTcxNTYyOTYwNSwiaXNzIjoiQVVUSCIsImlhdCI6MTcxNTYyOTYwNSwiZ3JwcyI6WyJQVUIiXSwiYXVkIjpb"
+const char* _demo_token = "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImRmZmY4NjczYzBjYzQ0MTVhNDY3YWU0NGFhNTZmNjQ0In0.e"
+    "yJleHAiOjE3ODIzMjcxMzUsIm5iZiI6MTc1MDc5MTEzNSwiaXNzIjoiQVVUSCIsImlhdCI6MTc1MDc5MTEzNSwiZ3JwcyI6WyJQVUIiXSwiYXVkIjpb"
     "IlJQUyIsIlFERUEiXSwicmxzIjpbIlJORFVTUiIsIlFERVVTUiJdLCJjaWQiOiJZdkN4bklscmlOYk8wRXpKWXBKUWwiLCJkdmMiOiJiYjZhMjU5YWQ"
-    "4ODk0MGE1YjMyZTU0YWJiYWUxZWQ0MyIsImp0aSI6Ijc3Nzc1NzM4Y2Y0MTRmMTVhOTlmZmRhZDg2NzgyMDNjIiwidHlwIjozfQ.Ka0GFmvbfmrPdnL"
-    "fE1D6hV9oE8y9zvBZB0OKDDA8FiuTDWC5Pv3mn8VLH9hz6iNr96brYB0BdGirewqRWkYqMA";
+    "4ODk0MGE1YjMyZTU0YWJiYWUxZWQ0MyIsImp0aSI6IjE4YzIwM2M3ZDA4ODQwMGZiYjk5ZTIyY2E1OTZiNDZjIiwidHlwIjozfQ.rbdyjHdFfsha4t_"
+    "R3cfUj5x3RqddIEWwE0tJFTG8yk6L7wZtHTSOOPaLIn8zEkqxx98V50uVZEAF7MEtDTYkcw";
 }
 std::string sdk_token = _demo_token;
 
